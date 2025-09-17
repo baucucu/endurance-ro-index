@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <main className="h-screen w-full flex flex-col items-center justify-center text-center text-white bg-gradient-to-r from-pink-500 via-yellow-400 to-blue-500 bg-[length:800%_800%] animate-gradient">
       <h1 className="text-3xl md:text-5xl font-bold uppercase tracking-wide mb-8 drop-shadow-lg">
-        AMBASADORI<br />Endurance Ro-Index 2025
+        Endurance Ro-Index 2025
       </h1>
       <div className="text-2xl md:text-4xl bg-black/30 px-6 py-4 rounded-2xl">
         {timeLeft || "Loading..."}
