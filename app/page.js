@@ -43,7 +43,7 @@ export default function Home() {
           Endurance Ro-Index 2025
         </h1>
         <p className="text-lg md:text-xl drop-shadow-lg mb-5">
-          Data lasarii: Joi, 25 Septembrie 2025
+          Data lansarii: Joi, 25 Septembrie 2025
         </p>
         <div className="text-2xl md:text-4xl bg-black/30 px-6 py-4 rounded-2xl">
           {timeLeft || "Loading..."}
